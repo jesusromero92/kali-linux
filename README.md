@@ -14,12 +14,13 @@ Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalme
 3. Herramientas de Kali-Linux
 
  * Aircrack
+ 
  Aircrack-ng es una de las mejores herramientas inalámbricas para hackear contraseñas para el craqueo WEP/WAP/WPA2 utilizado en todo el mundo.Funciona al tomar paquetes de la red, lo analiza a través de contraseñas recuperadas. También posee una interfaz de consola. 
 ![alt text](https://raw.githubusercontent.com/jesusromero92/kali-linux/master/AirCrack-Ng.png)
 
 * Metasploit
-Metasploit Framework es un marco de código abierto con el cual los expertos y equipos de seguridad verifican las vulnerabilidades, así como también realizan evaluaciones de seguridad para mejorar la conciencia de la seguridad.Puede ser usada para testear las vulnerabilidades tanto de Sistemas Operativos como de paginas webs
 
+Metasploit Framework es un marco de código abierto con el cual los expertos y equipos de seguridad verifican las vulnerabilidades, así como también realizan evaluaciones de seguridad para mejorar la conciencia de la seguridad.Puede ser usada para testear las vulnerabilidades tanto de Sistemas Operativos como de paginas webs
 Cuenta con una gran cantidad de herramientas con las que puedes crear entornos de seguridad para las pruebas de vulnerabilidad y funciona como un sistema de prueba de penetración.
 ![alt text](https://raw.githubusercontent.com/jesusromero92/kali-linux/master/maxresdefault.jpg)
 
