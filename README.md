@@ -10,6 +10,7 @@ Debido a esto último, mucha gente está usando Kali Linux sin saber usar Linux 
 2. Sistema operativo en el que está basado
 
 Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general. Fue fundada y es mantenida por Offensive Security Ltd
+
 3. Herramientas de Kali-Linux
 
  * Aircrack
