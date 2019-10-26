@@ -11,6 +11,9 @@ Debido a esto último, mucha gente está usando Kali Linux sin saber usar Linux 
 
 Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general. Fue fundada y es mantenida por Offensive Security Ltd
 3. Herramientas de Kali-Linux
+
+ 3.1-Aircrack
+ Aircrack-ng es una de las mejores herramientas inalámbricas para hackear contraseñas para el craqueo WEP/WAP/WPA2 utilizado en todo el mundo.Funciona al tomar paquetes de la red, lo analiza a través de contraseñas recuperadas. También posee una interfaz de consola. 
 4. ejemplo1_herramienta1
 5. ejemplo2_herramienta2
 
