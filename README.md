@@ -15,7 +15,7 @@ Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalme
 
  * Aircrack
  Aircrack-ng es una de las mejores herramientas inalámbricas para hackear contraseñas para el craqueo WEP/WAP/WPA2 utilizado en todo el mundo.Funciona al tomar paquetes de la red, lo analiza a través de contraseñas recuperadas. También posee una interfaz de consola. 
- https://github.com/jesusromero92/kali-linux/blob/master/AirCrack-Ng.png
+![alt text](https://raw.githubusercontent.com/jesusromero92/kali-linux/AirCrack-Ng.png)
 4. ejemplo1_herramienta1
 5. ejemplo2_herramienta2
 
