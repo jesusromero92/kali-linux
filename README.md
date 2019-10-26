@@ -28,4 +28,4 @@ Cuenta con una gran cantidad de herramientas con las que puedes crear entornos d
 
 ## Referencias
 [Wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
-Kali-Linux
+[Mas herramientas](https://maslinux.es/las-mejores-20-herramientas-de-hacking-y-penetracion-para-kali-linux/)
